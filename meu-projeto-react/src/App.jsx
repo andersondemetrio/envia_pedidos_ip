@@ -1140,7 +1140,7 @@ const IntelipostOrderCreator = () => {
         </div>
       </div>
     <footer className="mt-12 py-4 text-center text-green-800 text-sm bg-green-100 border-t border-green-300">
-  <p className="font-semibold">Desenvolvido por Demetrio & Deb © {new Date().getFullYear()}</p>
+  <p className="font-semibold">Desenvolvido por Demetrio,Deb e Renan {new Date().getFullYear()}</p>
 </footer>
 
 
